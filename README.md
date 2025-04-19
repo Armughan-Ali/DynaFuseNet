@@ -77,7 +77,7 @@ Run the following command to start training:
 ```bash
 python train.py
 
-
+```
 ## 🏋️‍♂️ Training
 
 Run the following command to start training:
@@ -85,7 +85,7 @@ Run the following command to start training:
 ```bash
 python train.py
 
-
+```
 ### Key Additions:
 - **Dataset Installation**: Added sections for the MS ASL and WLASL datasets, detailing how to download and install them.
 - **Organizing Dataset**: Mentioned that the datasets should be organized into the `data/` directory with the correct structure.
