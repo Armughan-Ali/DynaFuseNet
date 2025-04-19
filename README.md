@@ -11,8 +11,8 @@ A hybrid deep learning pipeline for sign language recognition using image frames
 
 1. **Clone the repo:**
     ```bash
-    git clone https://github.com/yourusername/signposefusion.git
-    cd signposefusion
+    git clone https://github.com/Armughan-Ali/DynaFuseNet
+    cd DynaFuseNet
     ```
 
 2. **Create Anaconda Environment:**
