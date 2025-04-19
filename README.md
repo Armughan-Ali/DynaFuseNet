@@ -17,8 +17,8 @@ A hybrid deep learning pipeline for sign language recognition using image frames
 
 2. **Create Anaconda Environment:**
     ```bash
-    conda create -n signposefusion python=3.9 -y
-    conda activate signposefusion
+    conda create -n DynaFuseNet python=3.9 -y
+    conda activate DynaFuseNet
     ```
 
 3. **Install Dependencies from `requirements.txt`:**
