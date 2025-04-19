@@ -70,12 +70,6 @@ To install the dataset:
 
 > **Note**: After downloading and organizing the datasets, ensure they are properly formatted according to the `images/` and `skeleton.npz` structure mentioned earlier.
 
-## 🏋️‍♂️ Training
-
-Run the following command to start training:
-
-```bash
-python train.py
 
 ```
 ## 🏋️‍♂️ Training
