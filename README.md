@@ -1,7 +1,7 @@
 # SignPoseFusion
 
 A hybrid deep learning pipeline for sign language recognition using image frames and 3D skeleton pose data.
-![Project Logo](model.png)
+
 ## 📁 Folder Structure
 
 
